@@ -65,9 +65,9 @@
 اخترنا وجود ثلاث مراحل من العناصر وأهمية استخدامها: 
 </p>
 
-* ![Low][low_img] means that the item is **recommended** but can be omitted in some particular situations.
-* ![Medium][medium_img] means that the item is **highly recommended** and can eventually be omitted in some really particular cases. Some elements, if omitted, can have bad repercussions in terms of performance or SEO.
-* ![High][high_img] means that the item **can't be omitted** by any reason. You may cause a dysfunction in your page or have accessibility or SEO issues. The testing priority needs to be on these elements first.
+* ![Low][low_img]  يعني ان العنصر **ينصح** إستخدامه لكن يُمكن ان يتم اهماله في بعض الحالات.
+* ![Medium][medium_img]  يعني ان العنصر ينصح بشدة استخدامه، لكن يُمكن ان يهمل في بعض الحالات الخاصة، ولكن بعض العناصر إذا أُهملت يمكن ان تأثر على الأداء او SEO.
+* ![High][high_img] يعني ان العنصر لا يمكن إهماله لأي سبب، اذا تم اهمالة سيتسبب بمشاكل في الصفحة و SEO، أولوية اختبارات الاداء تكون على هذة العناصر اولاً.
 
 Some resources possess an emoticon to help you understand which type of content / help you may find on the checklist:
 
