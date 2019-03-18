@@ -57,7 +57,11 @@
 
 ## كيفية الإستخدام؟
 
-All items in the **Front-End Checklist** are required for the majority of the projects, but some elements can be omitted or are not essential (in the case of an administration web app, you may not need RSS feed for example). We choose to use 3 levels of flexibility:
+<p align="right">
+جميع العناصر في القائمة يجب أن تستخدم في غالبية المشاريع، لكن بعض العناصر يمكن تجاهلها، 
+  مثلا : لا تحتاج إلى تغذية RSS في موقع خاص لإدارة المدارس.
+اخترنا وجود ثلاث مراحل من العناصر وأهمية استخدامها: 
+</p>
 
 * ![Low][low_img] means that the item is **recommended** but can be omitted in some particular situations.
 * ![Medium][medium_img] means that the item is **highly recommended** and can eventually be omitted in some really particular cases. Some elements, if omitted, can have bad repercussions in terms of performance or SEO.
