@@ -31,7 +31,7 @@
   <a href="#how-to-use">How To Use</a> • <a href="#contributing">Contributing</a> • <a href="http://feedback.frontendchecklist.io/">Roadmap</a> • <a href="https://frontendchecklist.io">Website</a> • <a href="https://www.producthunt.com/posts/front-end-checklist">Product Hunt</a>
 </p>
 <p align="center">
-    <span>Other Checklists:</span>
+    <span>[قوائم تدقيق أّخرى [باللغة الانجليزية</span>
     <br>
   <a href="https://github.com/thedaviddias/Front-End-Performance-Checklist#---------front-end-performance-checklist-">🎮 Front-End Performance Checklist</a> • <a href="https://github.com/thedaviddias/Front-End-Design-Checklist#front-end-design-checklist">💎 Front-End Design Checklist</a>
 </p>
@@ -39,7 +39,7 @@
 
 <p align="right">مبنية على سنين من الخبرة في تطوير واجهات الويب، مع اضافات من مستودعات أُخرى مفتوحة المصدر</p>
 
-## Table of Contents
+## الفهرس
 
 1. **[Head](#head)**
 2. **[HTML](#html)**
@@ -55,7 +55,7 @@
 
 ---
 
-## How to use?
+## كيفية الإستخدام؟
 
 All items in the **Front-End Checklist** are required for the majority of the projects, but some elements can be omitted or are not essential (in the case of an administration web app, you may not need RSS feed for example). We choose to use 3 levels of flexibility:
 
