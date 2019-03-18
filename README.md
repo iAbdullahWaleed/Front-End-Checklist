@@ -37,7 +37,7 @@
 </p>
 
 
-It is based on Front-End developers' years of experience, with the additions coming from some other open-source checklists.
+مبنية على سنين من الخبرة في تطوير واجهات الويب، مع اضافات من مستودعات أُخرى مفتوحة المصدر.
 
 ## Table of Contents
 
