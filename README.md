@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your website / HTML page to production.</h4>
+<h4 align="center">قائمة التدقيق الشاملة لمطورين واجهات المستخدم تحتوى على عناصر قد تحتاجها او فحصها قبل اطلاق مشروعك / صفحتك.</h4>
 
 <p align="center">
   <a href="http://makeapullrequest.com">
