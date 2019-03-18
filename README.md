@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <a href="#الفهرس">How To Use</a> • <a href="#contributing">Contributing</a> • <a href="http://feedback.frontendchecklist.io/">Roadmap</a> • <a href="https://frontendchecklist.io">Website</a> • <a href="https://www.producthunt.com/posts/front-end-checklist">Product Hunt</a>
+  <a href="#الفهرس">كيفية الإستخدام</a> • <a href="#المساهمة">المساهمة</a> • <a href="http://feedback.frontendchecklist.io/">Roadmap</a> • <a href="https://frontendchecklist.io">Website</a> • <a href="https://www.producthunt.com/posts/front-end-checklist">Product Hunt</a>
 </p>
 <p align="center">
     <span>[قوائم تدقيق أّخرى [باللغة الانجليزية</span>
@@ -764,7 +764,7 @@ If you have any question or suggestion, don't hesitate to use Gitter or Twitter:
 
 **[David Dias](https://github.com/thedaviddias)**
 
-## Contributors
+## المساهمة
 
 This project exists thanks to all the people who contribute. [[Contribute]](.github/CONTRIBUTING.md).
 <a href="https://github.com/thedaviddias/Front-End-Checklist/graphs/contributors"><img src="https://opencollective.com/front-end-checklist/contributors.svg?width=890" /></a>
