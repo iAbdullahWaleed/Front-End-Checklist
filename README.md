@@ -71,9 +71,11 @@
 <p align="right">
 نوع المحتوى الذي ستجده في قائمة التدقيق
 </p>
-* 📖: توثيقات او مقالات
-* 🛠: ادوات اختبار
-* 📹: محتوى مرئي
+* 📖:  توثيقات او مقالات
+</br>
+* 🛠:  ادوات اختبار
+</br>
+* 📹:  محتوى مرئي
 
 > You can contribute to the ***Front-End Checklist App*** reading the [README_APP file](https://github.com/thedaviddias/Front-End-Checklist/blob/master/README_APP.md) which explain everything about the project.
 
