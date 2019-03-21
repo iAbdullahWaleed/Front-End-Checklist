@@ -77,18 +77,14 @@
 </br>
 * 📹: <span dir="rtl" align="right"> محتوى مرئي </span>
 
-> You can contribute to the ***Front-End Checklist App*** reading the [README_APP file](https://github.com/thedaviddias/Front-End-Checklist/blob/master/README_APP.md) which explain everything about the project.
+<p align="right"> يمكنك المساهمة في **قائمة التدقيق** [اقرا الملف](https://github.com/thedaviddias/Front-End-Checklist/blob/master/README_APP.md) تم شرح به كل شي عن المشروع </p>
 
----
+## <h2 align="right">HEAD ما يتم ضبطه داخل العنصر</h2>
 
-## Head
+### <h4 align="right">**Meta Tag البيانات الوصفية**</h4>
 
-> **Notes:** You can find [a list of everything](https://github.com/joshbuchea/HEAD) that could be found in the `<head>` of an HTML document.
-
-### Meta tag
-
-* [ ] **Doctype:** ![High][high_img] The Doctype is HTML5 and is at the top of all your HTML pages.
-
+* [ ] **نوع المستند:** ![High][high_img] <span align="right"> يوضع في اعلى الملف ,HTML تعريف المتصفج انك تستخدم الاصدار الخامس من لغة 
+</span>
 ```html
 <!doctype html> <!-- HTML5 -->
 ```
