@@ -83,7 +83,7 @@
 
 ### <h4 align="right">**Meta Tag البيانات الوصفية**</h4>
 
-* [ ] **نوع المستند:** ![High][high_img] <span dir="rtl">تعريف المتصفح انك تستخدم الاصدار الخامس من لغة HTML, يوضع في اعلى الملف</span>  
+* [ ] **نوع المستند:** ![High][high_img] <span dir="rtl" align="right">تعريف المتصفح انك تستخدم الاصدار الخامس من لغة HTML, يوضع في اعلى الملف</span>  
 ```html
 <!doctype html> <!-- HTML5 -->
 ```
