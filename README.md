@@ -82,8 +82,8 @@
 ## <h2 align="right">HEAD ما يتم ضبطه داخل العنصر</h2>
 
 ### <h4 align="right">**Meta Tag البيانات الوصفية**</h4>
-&rlm;
-* [ ] **نوع المستند:** ![High][high_img] <span dir="rtl" align="right">تعريف المتصفح انك تستخدم الاصدار الخامس من لغة HTML, يوضع في اعلى الملف</span> &lrm;
+
+* [ ] **نوع المستند:** ![High][high_img] <span dir="rtl" align="right">تعريف المتصفح انك تستخدم الاصدار الخامس من لغة HTML, يوضع في اعلى الملف</span>
 ```html
 <!doctype html> <!-- HTML5 -->
 ```
