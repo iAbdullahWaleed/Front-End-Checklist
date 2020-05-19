@@ -1,0 +1,130 @@
+body{margin: 0;padding: 0;box-sizing: border-box;font-family: 'Cairo', sans-serif;}
+a{text-decoration: none;color:#2d87e2;border-bottom: 1px solid #2d87e2; transition: all .2s ease-in-out}
+a:hover{color: #316192;border-bottom: 1px solid #316192}
+section img
+{
+  border: 10px solid #fff;
+  box-shadow: 0 0 10px #d6d6d6;
+  margin: 20px auto;
+  width:300px;
+}
+/* Navbar */
+nav
+{
+    text-align: center;
+    box-shadow: 0 -9px 46px #d6d6d6;
+    padding: 20px 0;
+}
+nav h1
+{
+    padding: 0;
+    margin: 0;
+}
+/* Header */
+header
+{
+    text-align: center;
+    padding: 40px 0;
+}
+.update-note
+{
+  display: inline-block;
+  border-top: 1px #d6d6d6 solid; 
+  padding: 10px;
+  width: 400px;
+  float: center;
+  border-radius: 20px;
+}
+/* Article */
+article
+{
+  border-radius: 20px;
+  /* border-top: 1px solid black; */
+  /* border-bottom: 1px solid black; */
+  margin-bottom: 30px;
+  padding: 10px 20px 20px 20px;
+  box-shadow: 0 -9px 46px #d6d6d6;
+}
+h2
+{
+  padding-bottom:25px;
+  border-bottom: 1px solid #d6d6d6;
+}
+/* How to Use */
+.how-to-use p
+{
+    display: inline-block;
+}
+/* co */
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  @media (min-width: 768px) {
+    .container {
+      width: 750px;
+    }
+  }
+  @media (min-width: 992px) {
+    .container {
+      width: 970px;
+    }
+  }
+  @media (min-width: 1200px) {
+    .container {
+      width: 1170px;
+    }
+  }
+/* Icons */
+.high-icon , .medium-icon , .low-icon
+{
+  font-weight: bolder;
+}
+.high-icon::after
+{
+    content:'عالي';
+    color: #ff3f45;
+    font-weight: bold;
+    font-size: 10px;
+    border: 1px solid;
+    padding: 0 5px;
+    margin: 0 5px;
+}
+.medium-icon::after
+{
+    content:'متوسط';
+    color: #ff8d11;
+    font-weight: bold;
+    font-size: 10px;
+    border: 1px solid;
+    padding: 0 5px;
+    margin: 0 5px;
+}
+.low-icon::after
+{
+    content:'منخفض';
+    color: #8ed15f;
+    font-weight: bold;
+    font-size: 10px;
+    border: 1px solid;
+    padding: 0 5px;
+    margin: 0 5px;
+}
+.note-un
+{
+  background-color: #2d87e2;
+  border-radius:20px;
+  color: #fff;
+  padding: 10px;
+  text-align: center
+}
+.github-logo
+{
+  float: left;
+}
+footer article
+{
+  padding: 20px
+}
